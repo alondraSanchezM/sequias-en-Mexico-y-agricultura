@@ -15,6 +15,7 @@ Realizar análisis profundos, manipulación, transformación y extracción de in
 * Visualización de Datos Avanzada
 * Procesamiento de Lenguaje Natural
 * Clasificación Supervisada: Regresión Logística 
+* [Scrape tweets]() Recolección de tweets (EXTRA)
 
 ## Librerías 📦
 * pandas

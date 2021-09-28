@@ -1,4 +1,4 @@
-# Sequías en México: evolución a través de los años e implicaciones en la agricultura.
+# Sequías en México: evolución a través de los años e implicaciones en la agricultura
 
 Proyecto realizado para el curso de Data Science impartido por BEDU.
 
