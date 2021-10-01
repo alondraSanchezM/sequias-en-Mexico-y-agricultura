@@ -15,7 +15,7 @@ Realizar análisis profundos, manipulación, transformación y extracción de in
 * Visualización de Datos Avanzada
 * Procesamiento de Lenguaje Natural
 * Clasificación Supervisada: Regresión Logística 
-* [Scrape tweets]() Recolección de tweets (EXTRA)
+* [Scrape tweets:](./scraping.ipynb) Recolección de tweets (EXTRA)
 
 ## Librerías 📦
 * pandas
@@ -29,4 +29,4 @@ Realizar análisis profundos, manipulación, transformación y extracción de in
 * nltk
 
 ## Video :video_camera:
-[Enlace al video]()
+[Enlace al video](https://drive.google.com/file/d/1sqTTgAowF4YDQPxHg8dnY_tE3LbX4bZG/view?usp=sharing)

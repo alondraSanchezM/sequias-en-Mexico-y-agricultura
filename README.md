@@ -3,8 +3,8 @@
 Proyecto realizado para el curso de Data Science impartido por BEDU.
 
 ## Módulos 📖
-* **[Procesamiento de datos]()**
-* **[Análisis de datos]()**
+* **[Procesamiento de datos](./Procesamiento%20de%20datos%20con%20Python)**
+* **[Análisis de datos](./Análisis%20de%20datos%20con%20Python)**
 
 ## Colección de datos :pencil:
 Los datos fueron recuperados de: 
