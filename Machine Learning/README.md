@@ -9,9 +9,9 @@ Identificar, seleccionar, construir e implementar algoritmos de Machine Learning
 * Identificación del problema
 * Formulamiento de preguntas clave
 * Algoritmo no supervisado              
-* Regresión lineal o polimonial                         
-* ... En construcción :construction:
-* [Bitácora de experimentos:](./Bitacora.md)             
+* Regresión lineal o polimonial 
+* Bitácora de experimentos                        
+* ... En construcción :construction:          
 
 ## Librerías 📦
 * pandas
@@ -22,4 +22,4 @@ Identificar, seleccionar, construir e implementar algoritmos de Machine Learning
 * ... En construcción :construction:                   
 
 ## Video :video_camera:
-[Enlace al video](https://)
+[Enlace al video]()
