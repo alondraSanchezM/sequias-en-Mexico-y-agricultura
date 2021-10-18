@@ -1,10 +1,11 @@
 # Sequías en México: evolución a través de los años e implicaciones en la agricultura
 
-Proyecto realizado para el curso de Data Science impartido por BEDU.
+Proyecto realizado para el curso de Data Science impartido por BEDU.          
 
 ## Módulos 📖
 * **[Procesamiento de datos](./Procesamiento%20de%20datos%20con%20Python)**
 * **[Análisis de datos](./Análisis%20de%20datos%20con%20Python)**
+* **[Aprendizaje Automático y Predicciones](./Machine%20Learning)**
 
 ## Colección de datos :pencil:
 Los datos fueron recuperados de: 
@@ -25,4 +26,3 @@ Los datos fueron recuperados de:
 * María Regina Valencia Hernández - [reginavlnc](https://github.com/reginavlnc)
 * Antonio	Escajeda Garcia - [AEscajeda](https://github.com/AEscajeda)
 * David Armando	Uc Canul - [DaavidUc](https://github.com/DaavidUc)
-***
