@@ -16,8 +16,10 @@ Realizar análisis profundos, manipulación, transformación y extracción de in
 * Procesamiento de Lenguaje Natural
 * Clasificación Supervisada: Regresión Logística 
 
-* [Scrape tweets:](./scraping.ipynb) Recolección de tweets (EXTRA)
-* [Mapas evolutivos:](./mapas.ipynb) Análisis exploratorio de variables (EXTRA)
+### Extras
+
+* [Scrape tweets:](./scraping.ipynb) Recolección de tweets
+* [Mapas evolutivos:](./mapas.ipynb) Análisis exploratorio de variables 
 
 ## Librerías 📦
 * pandas
